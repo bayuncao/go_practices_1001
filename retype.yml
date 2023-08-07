@@ -1,11 +1,17 @@
 input: .
 output: .retype
-url: https://go2byte.com
+url: https://bayuncao.github.io/go_practices_1001/
 branding:
-  title: Go2Byte.com
-  label: Coding Practice
+  title: Go Practices 1001
+  label: Docs & Code
 links:
 - text: Getting Started
   link: https://retype.com/guides/getting-started/
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
+favicon: static/favicon.png
+snippets:      # Custom code snippets configuration.
+  # See: https://retype.com/components/code-snippet
+  lineNumbers: # A list of language strings to enable line numbering on.
+    - js
+    - go     # Use `none` to disable line-numbering on snippets.
