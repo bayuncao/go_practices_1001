@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://go2byte.com/sitemap.xml.gz
+Sitemap: https://bayuncao.github.io/go_practices_1001/sitemap.xml.gz
